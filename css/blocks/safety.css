@@ -1,0 +1,89 @@
+.safety-tips__wrapper {
+    display: grid;
+    grid-template-columns: 1fr 290px;
+    gap: 180px;
+    margin: 0 0 60px 0;
+}
+
+.safety-tips__title {
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 32px;
+    color: #242424;
+    padding: 0;
+    margin: 0 0 20px 0;
+}
+
+.safety-tips__text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    margin: 0 0 20px 0;
+    padding: 0;
+}
+.safety-tips__note {
+    padding: 0;
+    margin: 0 0 20px 0;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.safety-tips__info-title {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+    padding: 0;
+    margin: 0 0 10px 0;
+}
+
+.safety-tips__info-list {
+    padding: 0 0 0 20px;
+    margin: 0;
+}
+
+.safety-tips__info-item {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #242424;
+    padding: 0;
+    margin: 0 0 10px 0;
+}
+
+.aside-nav__section {
+    border: 1px solid rgba(225, 225, 228, 1);
+    border-radius: 20px;
+    padding: 25px;
+    margin:  0 0 25px 0;
+}
+.aside-nav__title {
+    padding: 0;
+    margin: 0 0 15px 0;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.aside-nav__list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+.aside-nav__item {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    margin: 0 0 15px 0;
+    padding: 0;
+}
+
+.btn--consultation {
+    width: 100%;
+    margin: 0 0 20px 0;
+  }
+
+  .contacts__image {
+    border-radius: 20px;
+  }
+  
